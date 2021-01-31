@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Warner">
+    <display-name lang="es">Warner</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="Warner Channel HD">
+    <display-name lang="es">Warner Channel HD</display-name>
+    <url>http://www.movistar.com.pe</url>
+  </channel>
+  <channel id="Canal HBO">
+    <display-name lang="es">Canal HBO</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210130021000 -0500" stop="20210130040000 -0500" channel="Canal HBO">
+    <title lang="es">Fuera de la ley</title>
+  </programme>
+  <programme start="20210130040000 -0500" stop="20210130061500 -0500" channel="Canal HBO">
+    <title lang="es">Queen &amp; Slim: Los fugitivos</title>
+  </programme>
+  <programme start="20210130061500 -0500" stop="20210130090000 -0500" channel="Canal HBO">
+    <title lang="es">Había una vez en Hollywood</title>
+  </programme>
+  <programme start="20210130090000 -0500" stop="20210130105500 -0500" channel="Canal HBO">
+    <title lang="es">El camino de regreso</title>
+  </programme>
+  <programme start="20210130105500 -0500" stop="20210130125500 -0500" channel="Canal HBO">
+    <title lang="es">Yesterday (2019)</title>
+  </programme>
+  <programme start="20210130125500 -0500" stop="20210130150000 -0500" channel="Canal HBO">
+    <title lang="es">Bad Boys Para Siempre</title>
+  </programme>
+  <programme start="20210130150000 -0500" stop="20210130164500 -0500" channel="Canal HBO">
+    <title lang="es">Ma (2019)</title>
+  </programme>
+  <programme start="20210130164500 -0500" stop="20210130183500 -0500" channel="Canal HBO">
+    <title lang="es">Annabelle 3: Viene a Casa</title>
+  </programme>
+  <programme start="20210130183500 -0500" stop="20210130204000 -0500" channel="Canal HBO">
+    <title lang="es">1917</title>
+  </programme>
+  <programme start="20210130204000 -0500" stop="20210130230000 -0500" channel="Canal HBO">
+    <title lang="es">Rápidos y Furiosos: Hobbs &amp; Shaw</title>
+  </programme>
+  <programme start="20210130230000 -0500" stop="20210131005500 -0500" channel="Canal HBO">
+    <title lang="es">Luce</title>
+  </programme>
+</tv>
